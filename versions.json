@@ -2,6 +2,9 @@
   "bl_lib": {
     "latest": "1.0.5"
   },
+  "bl_carlock": {
+    "latest": "1.0.4"
+  },
   "bl_hud": {
     "latest": "1.0.4"
   },
