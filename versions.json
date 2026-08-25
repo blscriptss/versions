@@ -1,14 +1,14 @@
 {
   "bl_lib": {
-    "latest": "1.0.4"
+    "latest": "1.0.5"
   },
   "bl_hud": {
     "latest": "1.0.4"
   },
   "bl_notify": {
-    "latest": "1.0.3"
+    "latest": "1.0.4"
   },
   "bl_easterhunt": {
-    "latest": "1.0.1"
+    "latest": "1.0.2"
   }
 }
